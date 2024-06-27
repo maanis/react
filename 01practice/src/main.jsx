@@ -2,9 +2,9 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
 
-function Manish(){
+function reacting(){
   return(
-    <h1>Manish A Developer</h1>
+    <h1>LOL react is fun</h1>
   )
 }
 
@@ -14,7 +14,7 @@ const reactElem = React.createElement(
   'click me'
 )
 ReactDOM.createRoot(document.getElementById('root')).render(
-  // <Manish/>
-  // Manish()
+  // <reacting/>
+  // reacting()
   reactElem
 )
