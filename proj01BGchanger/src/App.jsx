@@ -19,7 +19,7 @@ function App() {
   return (
 
     <>
-      <div className='w-full h-screen' style={{ backgroundColor: color }}>
+      <div className='w-full h-screen ' style={{ backgroundColor: color }}>
         <div className='fixed bottom-12 flex justify-center inset-x-24 gap-5 rounded-2xl py-4'>
           <div className='bg-white px-5 py-3 flex justify-center gap-4 rounded-2xl'>
             <button onClick={() => setcolor("violet")} className='outline-none px-4 py-2 rounded-lg' style={{ backgroundColor: 'violet' }}>Violet</button>
