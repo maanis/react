@@ -1,0 +1,8 @@
+* {
+  box-sizing: border-box;
+}
+
+.containerr {
+  height: calc(100vh - 56px);
+  /* width: 100vw; */
+}
