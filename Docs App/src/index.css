@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::selection {
+    color: rgb(236, 146, 83);
+}
+
+body {
+    overflow: hidden;
+}
