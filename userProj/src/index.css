@@ -3,9 +3,5 @@
 @tailwind utilities;
 
 ::selection {
-    color: rgb(236, 146, 83);
-}
-
-body {
-    overflow: hidden;
+    color: orange;
 }
