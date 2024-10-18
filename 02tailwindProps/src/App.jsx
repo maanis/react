@@ -13,7 +13,6 @@ function App() {
       <Card name="manish" myArr={arr} view="get profile" />
       <Card name="raunak" />
 
-
     </>
   )
 }
